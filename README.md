@@ -2,9 +2,6 @@
 - 📚 Estudante de Engenharia de Computação
 <div align="center">
 <a href="https://github.com/PauloTristao">
-<img height="180em" img width="42%" src="https://github-readme-stats.vercel.app/api?username=PauloTristao&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>   <img height="180em" img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloTristao&layout=compact&langs_count=7&theme=vue-dark"/>
-</div> 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">   
   <img align="center" alt="Paulo-SQLServer" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">  
