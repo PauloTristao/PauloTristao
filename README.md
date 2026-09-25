@@ -2,7 +2,8 @@
 
 - 🎓 Engenheiro de Computação pela FESA (Faculdade Engenheiro Salvador Arena)
 - 💻 Desenvolvedor Full Stack Pleno
-- ⚙️ Minha stack principal hoje envolve **C#, .NET e Java** no back-end, além de **React.js e React Native** no front-end
+- ⚙️ Minha stack principal envolve **C#, .NET e Java** no back-end, além de **React.js e React Native** no front-end
+- 📊 Também venho estudando e desenvolvendo projetos na área de **Dados e Machine Learning**, utilizando **Python, Polars, Pandas, NumPy e Scikit-Learn**
 
 <div align="center">
 <a href="https://github.com/PauloTristao">
@@ -15,6 +16,9 @@
   <img align="center" alt="Paulo-TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Paulo-Azure" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
   <img align="center" alt="Paulo-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Paulo-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Paulo-Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Paulo-ScikitLearn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
 </div>
 </a>
 </div>
